@@ -1,6 +1,6 @@
 # 本书信息
 
-《Linux 高性能服务器编程》和《Linux多线程服务端编程：使用muduo C++网络库》的笔记和源码。
+《Linux 高性能服务器编程》和《Linux多线程服务端编程：使用muduo C++网络库》的笔记和源码，以及两个轻量级服务器的项目代码。
 
 GitHub：[https://github.com/Hansimov/linux-server](https://github.com/Hansimov/linux-server)
 
